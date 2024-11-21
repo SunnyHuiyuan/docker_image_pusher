@@ -7,3 +7,4 @@ xhofe/alist:latest
 redis:7.4.1
 portainer/portainer:1.25.0
 xuxueli/xxl-job-admin:2.4.2
+nginx:1.27.2

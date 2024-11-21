@@ -10,3 +10,4 @@ xuxueli/xxl-job-admin:2.4.2
 nginx:1.27.2
 nacos/nacos-server:v2.4.3
 portainer/portainer-ce:2.24.0
+minio/minio:latest

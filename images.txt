@@ -1,3 +1,5 @@
+apachestreampipes/backend:0.97.0
+apachestreampipes/ui:0.97.0
 apachestreampipes/extensions-all-jvm:0.97.0
 nginx
 #支持私库

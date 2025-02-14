@@ -11,3 +11,7 @@ nginx:1.27.2
 nacos/nacos-server:v2.4.3
 portainer/portainer-ce:2.24.0
 minio/minio:latest
+couchdb:3.3.1
+fogsyio/kafka:2.2.0
+fogsyio/zookeeper:3.4.13
+influxdb:2.6

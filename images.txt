@@ -19,3 +19,4 @@ fogsyio/kafka:2.2.0
 fogsyio/zookeeper:3.4.13
 influxdb:2.6
 eclipse-temurin:8-jre
+portainer/agent:lts

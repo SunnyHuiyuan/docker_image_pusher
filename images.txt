@@ -21,3 +21,4 @@ influxdb:2.6
 eclipse-temurin:8-jre
 #
 portainer/agent:lts
+rabbitmq:3.12-management
